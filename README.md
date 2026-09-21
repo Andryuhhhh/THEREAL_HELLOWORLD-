@@ -1,1 +1,1 @@
-#НАМ ВРАЛИ ПРО ФУНКЦИЮ ПРИНТ И HELLO WORLD!!!!
+WE WERE LIED TO ABOUT THE PRINT AND HELLO WORLD FUNCTION!!!!
